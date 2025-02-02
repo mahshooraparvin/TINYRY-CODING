@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+*{margin: auto;padding: 0px;max-width: 1366px;scroll-behavior: smooth;font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";}
+
+/*header section*/
+
+.section1{padding-top: 4%;}
+.firstpart{margin-top: -55%;}
+.main{max-width: 100%;}
+.home{width: 2.5%;margin-left: -53%;}
+.search{display: flex;margin-left: 50%;margin-top: -55%}
+.search input{width: 235px;height: 50px;border: none;border-radius: 40px;margin-left: 60%;background-color: #CFCFC9;font-size: 18px }
+.search input .home{display: flex}
+.searchicon{margin-left: -55%;width: 3%}
+
+
+.logo{width: 200px;margin-left: 43%;margin-top: -7%;}
+.section1 ul li{list-style: none;color: #070707;font-size: 19px;padding-top: -1%;padding-left: 50px;margin-top: -7%}
+.section1 ul{display: flex;padding-bottom: 30px;width: 980px;}
+
+.section1 ul li:hover{color: #4B4B49;}
+.section1 a button:hover{background-color:transparent;color:#fff;}
+.menu:hover{background-color: #9F9281;padding: 0.5%;}
+.search:hover{background-color: #9F9281;padding: 0.5%;}
+
+.search input:hover{background-color: whitesmoke;font-size: 16px;padding-right: 2%;}
+.home:hover{background-color: #4B4B49;opacity: 50%}
+.cart:hover{background-color: #4B4B49;opacity: 50%}
+
+
+
+.section1 a{text-decoration: none;padding-top: 40px;}
+.firstpart p{margin-top: -3.7%}
+.line-1{margin-top: 2%;}
+.section1 p{font-weight:bold;font-size: 49px;color: #F8F5F5;padding-left: 39.5%;padding-top: 10%;}
+.premium{background-color:#746F6F ;color: #FFFFFF;height: 102px;width: 590px;border-radius: 16px;margin-left: 30%;opacity: 76%;margin-top: 6%;padding-left: -1%;padding-right: -3%;}
+.premium p{font-size: 28px;padding-left: 70px;padding-top: 34px;font-weight: 500 }
+.section1 button{text-decoration: none; background-color: #FFFFFF;opacity: 76%;border: none;border-radius: 38px;width:450px;height: 87px;margin-left: 37%;margin-top: 70px;font-size: 25px;font-weight: 500}
+.line2{margin-top: 2%;}
+
+
+
+/*About section*/
+
+
+.section2{display: flex;text-align: center;margin-top: 47%}
+.delivery-icon{width: 110px;}
+.moneyback-icon{width: 110px;}
+.payment-icon{width: 140px;}
+.section2 h1{padding-top: 30px;opacity: 75%;font-size: 28px;}
+.section2 p{padding-top: 31px;font-size: 12px;text-align: center;}
+.money h1{padding-top: 3%;}
+.payment h1{padding-top: 6%;}
+.section3{padding-top: 6%;}
+.lady{max-width: 100%;}
+.aboutus{background-color: #FFFFFF;opacity: 65%;height: 240px;width: 1010px;padding-top: 40px;margin-top: -8%;margin-left: 8%;}
+.aboutus h1{font-size: 40px;padding-left: 80px;padding-top: -5%;}
+.aboutus p{font-size: 23px;padding-left: 80px;padding-top: 55px;}
+.aboutus button{background-color: #E1E1DD;border: none;width: 359px;height: 66px;margin-left: 80px;margin-top: 50px;color: #0D0D0D;font-size: 30px;font-weight: 500}
+
+.aboutus a button:hover{background-color:saddlebrown;color:#fff;}
+
+.section4{display: flex;text-align: center;padding-top: 13%;}
+.section4 img{width: 80%}
+.section4 h1{font-size: 23px;padding-top: 30px;opacity: 77%;}
+
+.shipping{padding-top: 3%;}
+
+
+
+/*categories*/
+
+
+.section5 h1{text-align: center;padding-top: 13%;font-size: 31px;color: #161514;}
+.section6{display: flex;padding-top: 90px;overflow:hiden;}
+.section6 img{max-width: 98%;}
+.section6 button{color:black;font-size: 25px;padding-left: 8%; font-weight: 600;height: 80px;margin-top: 5px;border: none;word-spacing: 100px;letter-spacing: 2px;width: 384px;text-align: left;overflow:hidden;}
+.section7{display: flex;padding-top: 2%;}
+.section7 img{max-width: 98%;}
+.section7 button{color:black;font-size: 25px;font-weight: 600;height: 80px;margin-top: 5px;border: none;word-spacing: 100px;letter-spacing: 2px;width: 384px;text-align: left;padding-left: 8%;}
+
+.section6 a button:hover{background-color:#BC8D6F;opacity: 78%;;color: black;transform:scale(1.1);transition: 1s;width: 100%;}
+.section7 a button:hover{background-color:#BC8D6F;opacity: 78%;;color: black;transform:scale(1.1);transition: 1s;width: 100%;}
+.section7 img:hover{ transform:scale(1.1);transition: 1s;width: 90%}
+.section6 img:hover{ transform:scale(1.1);transition: 1s;width: 90%}
+.types{overflow: hidden}
+
+
+
+/*Best sellers*/
+
+
+.section77{padding-top: 12%;}
+.section77 h1{font-size: 35px;color: #161514;opacity: 91%;text-align: center;}
+.section78{display: flex;padding-top: 5%;}
+.section78 img{max-width: 97%;}
+.section78 p{font-size: 18px;padding-top: 3%;padding-bottom: 2.7%;color: #161514;}
+.section78 p1{font-size: 17px;color: #161514;}
+.section79{display: flex;padding-top: 5%;}
+.section79 img{max-width: 97%;}
+.section79 p{font-size: 22px;color: #161514;opacity: 89%;padding-top: 30px;text-align: left;padding-bottom: 3%;}
+.section79 p1{font-size: 19px;color: #161514;opacity: 89%;}
+
+
+/*review section*/
+
+
+.section14{padding-top: 10%;}
+.vector{max-width: 52%; margin-left: -3%;padding-bottom: 15%;}
+.section14 h1{font-size: 60px;opacity: 83%;margin-left: 52%;padding-bottom: -28%;}
+.review{margin-left: 52%;margin-top: -700px;display: flex;padding-bottom: 3%;}
+.review h2{margin-left: -8%;}
+.opinion{margin-left: 52%;}
+.yellowstars{margin-left: -1%;}
+.opinion p{font-size: 20px;padding-bottom: 60px;}
+.all{margin-left: 150px;margin-top: -10px;}
+.opinion button{background-color: #E1E1DD;border: none;width: 450px;height: 95px;color: #FCF8F8;font-size: 32px;font-weight:bold;margin-top: 30px;margin-left: 5px;}
+
+.opinion a button:hover{background-color:saddlebrown;color:#fff;opacity: 68%;}
+
+
+
+
+
+
+
+/*form section*/
+
+
+.ladypic{max-width: 100%;margin-top: 18%;}
+.contactus{margin-top: -77%;margin-left: 6%;color: black;opacity: 92%;}
+.contactus h1{font-size: 45px;padding-top: 152px;}
+.contactus p{font-size: 24px;font-weight: 500;padding-top: 6%;padding-bottom: 4%;}
+.form-field{width: 1020px;height: 80px;background-color: transparent;border-width: 4px;margin-top: 30px;}
+.contactus input{padding-left: 19px;font-size: 25px;border-radius: 12px;border-color:black;opacity: 100%;}
+.form-field{width: 1020px;height: 80px;background-color: transparent;border-width: 4px;margin-top: 26px;}
+.form-field{width: 1020px;height: 80px;background-color: transparent;border-width: 4px;margin-top: 26px;}
+.msg{width: 610px;height: 130px;background-color: transparent;border-color: black;opacity: 75%; border-width: 4px;margin-top: 26px;padding-left: 19px;font-size: 25px;color: #F1EBEB;border-radius: 12px;margin-bottom: 2%}
+.contactus button{width: 380px;height: 90px;background-color: #C9C1B8;opacity: 92%;color: black;margin-left: 38%;border-radius: 19px;font-size: 25px;border: none;margin-bottom: -0.7%}
+
+.section15 a button:hover{background-color: transparent;font-weight: 700;color: white;}
+.section15 input:required{color: black}
+
+
+/*footer section*/
+
+
+.section16{background-color: #C9C1B8;margin-top: 1.5%;}
+.foooterlogo{margin-top: 3%;margin-left: 6%;}
+.section16 p{margin-left: 6%;padding-top: 4%;font-size: 23px;opacity: 80%;}
+.mediaicon{margin-left: 6%;padding-top: 1%;}
+.shop{margin-left: 34%;margin-top: -6%;}
+.shop h1{margin-left: 6%;font-size: 22px;font-weight: 600;}
+.shop p{padding-top: 2%;font-size: 15px;opacity: 85%;}
+.costumercare{margin-left: 55%;margin-top: -18.5%;}
+.costumercare h1{margin-left: 6%;font-size: 20px;font-weight: 600;}
+.costumercare p{padding-top: 3%;font-size: 15px;opacity: 85%;}
+.contactus-2{margin-left: 75%;margin-top: -12%;}
+.contactus-2 h1{margin-left: 6%;font-size: 20px;font-weight: 600;}
+.contactus-2 p{margin-top: -12%;font-size: 15px;opacity: 85%;margin-left: 20%;}
+.phoneicon{width: 24px;padding-top: 9%;margin-left: 6%;}
+.contactus-2 p1{font-size: 15px;opacity: 85%;margin-left: 7%;}
+.mailicon{width: 24px;padding-top: 5%;margin-left: 6%;}
+.legal{margin-left: 55%;margin-top: 6%;}
+.legal h1{margin-left: 6%;font-size: 20px;font-weight: 600;}
+.legal p{padding-top: 2%;font-size: 15px;opacity: 85%;}
+.banks{width: 50%;margin-left: 48%;margin-top: -22%;}
+.copyright{display: flex;margin-top: -3%;margin-left: -7%;padding-bottom: 1%;}
+.copyrighticon{margin-left: 45%;margin-top: 6%;}
+.copyright p{font-size: 16px;color: #000000;margin-left: -28%;margin-top: 2%;}
+
+
+
+
