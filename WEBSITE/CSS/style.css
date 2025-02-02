@@ -137,7 +137,7 @@
 .contactus input{padding-left: 19px;font-size: 25px;border-radius: 12px;border-color:black;opacity: 100%;}
 .form-field{width: 1020px;height: 80px;background-color: transparent;border-width: 4px;margin-top: 26px;}
 .form-field{width: 1020px;height: 80px;background-color: transparent;border-width: 4px;margin-top: 26px;}
-.msg{width: 610px;height: 130px;background-color: transparent;border-color: black;opacity: 75%; border-width: 4px;margin-top: 26px;padding-left: 19px;font-size: 25px;color: #F1EBEB;border-radius: 12px;margin-bottom: 2%}
+.msg{width: 610px;height: 130px;background-color: transparent;border-color: black;opacity: 75%; border-width: 4px;margin-top: 26px;padding-left: 19px;font-size: 25px;color: black;border-radius: 12px;margin-bottom: 2%}
 .contactus button{width: 380px;height: 90px;background-color: #C9C1B8;opacity: 92%;color: black;margin-left: 38%;border-radius: 19px;font-size: 25px;border: none;margin-bottom: -0.7%}
 
 .section15 a button:hover{background-color: transparent;font-weight: 700;color: white;}
@@ -151,7 +151,7 @@
 .foooterlogo{margin-top: 3%;margin-left: 6%;}
 .section16 p{margin-left: 6%;padding-top: 4%;font-size: 23px;opacity: 80%;}
 .mediaicon{margin-left: 6%;padding-top: 1%;}
-.shop{margin-left: 34%;margin-top: -6%;}
+.shop{margin-left: 34%;margin-top: -5%;}
 .shop h1{margin-left: 6%;font-size: 22px;font-weight: 600;}
 .shop p{padding-top: 2%;font-size: 15px;opacity: 85%;}
 .costumercare{margin-left: 55%;margin-top: -18.5%;}
@@ -170,6 +170,7 @@
 .copyright{display: flex;margin-top: -3%;margin-left: -7%;padding-bottom: 1%;}
 .copyrighticon{margin-left: 45%;margin-top: 6%;}
 .copyright p{font-size: 16px;color: #000000;margin-left: -28%;margin-top: 2%;}
+
 
 
 
